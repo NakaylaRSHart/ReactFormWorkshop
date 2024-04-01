@@ -1,1 +1,21 @@
+body{
+  background-color: cadetblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form{
+  background-color: azure;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+button{
+  color: darkblue;
+  background-color: darkcyan;
+}
+
+
+
 
